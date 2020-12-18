@@ -1,5 +1,12 @@
 // MOUSE EVENTS ----------------------------------------------------------------------
 
+// ----------------- addEventListener(), can add multiple functions 
+                  // on the same event, they will not override eachother
+                  //element.addEventListener('click', foo1);
+                  //element.addEventListener('click', foo2);
+                  //element.addEventListener('click', foo3);
+
+
 //let button = document.getElementById('button').addEventListener('click', click_event);
 
 function click_event(e) {
