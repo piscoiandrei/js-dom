@@ -1,0 +1,1 @@
+- The path from script in the index.html is not correct
